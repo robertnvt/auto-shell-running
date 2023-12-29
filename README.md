@@ -4,7 +4,7 @@ The current version is for Windows only
 
 2. Edit parameters in the .py file with a text editor
 
-3. Run command in a terminal open with or cd to the folder storing this script
+3. Run command in a terminal **open with or cd to** the folder storing this script
 
 ```
 python auto-arc20.py
