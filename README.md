@@ -10,4 +10,4 @@ The current version is for Windows only
 python auto-arc20.py
 ```
 
-Some may need to use python3 instead of python, depending your setup for command alias
+Some may need to use **python3** instead of **python**, depending your setup for command alias
