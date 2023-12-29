@@ -1,4 +1,4 @@
-The current version is for Windows only
+The current version is for **Windows** only
 
 1. Download or clone into the same folder of the atomicals client
 
@@ -10,4 +10,4 @@ The current version is for Windows only
 python auto-arc20.py
 ```
 
-Some may need to use **python3** instead of **python**, depending your setup for command alias
+Some may need to use **python3** instead of **python**, depending on your setup for command alias
