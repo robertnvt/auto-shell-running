@@ -6,4 +6,4 @@ The current version is for Windows only
 
 3. Run command in a terminal open with or cd to the folder storing this script
 
-**python auto-arc20.py**
+    **python auto-arc20.py**
