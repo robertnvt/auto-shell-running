@@ -1,7 +1,9 @@
 The current version is for Windows only
 
-Download or clone into the same folder of the atomicals client
+1. Download or clone into the same folder of the atomicals client
 
-Run 
+2. Edit parameters in the .py file with a text editor
+
+3. Run command in a terminal open with or cd to the folder storing this script
 
 **python auto-arc20.py**
